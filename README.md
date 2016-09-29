@@ -1,18 +1,17 @@
 ---
-services: networking
+services: Network
 platforms: java
 author: selvasingh
 ---
 
-#Getting Started with Networking - Manage Network Interface - in Java #
-
-Networking Manage Network Interface Sample (for 1.0.0-beta2) - demonstrates how to perform common management tasks using the Microsoft Azure Networking service.
+#Getting Started with Network - Manage Network Interface - in Java #
 
 
-- Create a virtual machine with multiple network interfaces
-- Configure a network interface
-- List network interfaces
-- Delete a network interface.
+  Azure Network sample for managing network interfaces -
+   - Create a virtual machine with multiple network interfaces
+   - Configure a network interface
+   - List network interfaces
+   - Delete a network interface.
  
 
 ## Running this Sample ##
@@ -30,10 +29,6 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 ## More information ##
 
 [http://azure.com/java] (http://azure.com/java)
-
-[Azure Networking](https://azure.microsoft.com/en-us/services/virtual-network/)
-
-[Create a virtual machine with multiple network interfaces](https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-multiple-nics/)
 
 If you don't have a Microsoft Azure subscription you can get a FREE trial account [here](http://go.microsoft.com/fwlink/?LinkId=330212)
 
